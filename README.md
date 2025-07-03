@@ -8,44 +8,43 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 ## ✨ Key Features
 
 ## 🖥️ User Experience
--Natural language processing for conversational queries
-
--Mobile-responsive interface
--Accessibility-compliant design
+- Natural language processing for conversational queries
+- Mobile-responsive interface
+- Accessibility-compliant design
 
 ## 📚 Legal Database
--Comprehensive collection of T&T civil laws
--Regular updates from official sources
--Cross-referenced legal provisions
+- Comprehensive collection of T&T civil laws
+- Regular updates from official sources
+- Cross-referenced legal provisions
 
 ## ⚙️ Technical Capabilities
--Context-aware responses
--Citation of relevant statutes
--Multi-format output (text, PDF export)
+- Context-aware responses
+- Citation of relevant statutes
+- Multi-format output (text, PDF export)
 
 ## 🔒 Security & Privacy
--End-to-end encryption for sensitive queries
--Anonymous usage option
--GDPR-compliant data practices
+- End-to-end encryption for sensitive queries
+- Anonymous usage option
+- GDPR-compliant data practices
 
 ## Core Objectives
--Democratize access to legal information
--Simplify complex legal jargon for everyday citizens
--Reduce barriers to legal knowledge
--Serve as a model for AI innovation in Caribbean legal tech
+- Democratize access to legal information
+- Simplify complex legal jargon for everyday citizens
+- Reduce barriers to legal knowledge
+- Serve as a model for AI innovation in Caribbean legal tech
 
 ## Component Breakdown
--Frontend: Streamlit/React interface
--Backend: Python Flask/Django
--AI Layer: OpenAI/Hugging Face models
--Knowledge Base: PostgreSQL with legal documents
--Deployment: Docker containers on AWS
+- Frontend: Streamlit/React interface
+- Backend: Python Flask/Django
+- AI Layer: OpenAI/Hugging Face models
+- Knowledge Base: PostgreSQL with legal documents
+- Deployment: Docker containers on AWS
 
 ## Target audience
--The general public seeking legal information
--Small business owners
--Legal students and researchers
--Community organizations
+- The general public seeking legal information
+- Small business owners
+- Legal students and researchers
+- Community organizations
 
 
 
@@ -74,10 +73,10 @@ Trinidad and Tobago’s Ministry of Legal Affairs for public law data.
 OpenAI for NLP models.
 
 ## 🤝 Contributor Guidelines
--We welcome contributions through:
--Code Improvements: Submit PRs for bug fixes
--Legal Expertise: Help expand the knowledge base
--UI/UX Design: Enhance the interface
+- We welcome contributions through:
+- Code Improvements: Submit PRs for bug fixes
+- Legal Expertise: Help expand the knowledge base
+- UI/UX Design: Enhance the interface
 
 ## 📞 Contact
 
