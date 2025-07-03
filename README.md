@@ -17,12 +17,12 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 -Regular updates from official sources
 -Cross-referenced legal provisions
 
-⚙️ Technical Capabilities
+## ⚙️ Technical Capabilities
 -Context-aware responses
 -Citation of relevant statutes
 -Multi-format output (text, PDF export)
 
-🔒 Security & Privacy
+## 🔒 Security & Privacy
 -End-to-end encryption for sensitive queries
 -Anonymous usage option
 -GDPR-compliant data practices
