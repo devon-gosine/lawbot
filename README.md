@@ -6,6 +6,7 @@
 Lawbot is a project developed by Null and Void Labs that is made for the citizens of Trinidad and Tobago to answer any legal query from the Trinidad and Tobago civil law sources. It is an easy-to-use AI chatbot that makes it very convenient for the average citizen of Trinidad and Tobago. Additionally, Lawbot is a one-of-a-kind example of AI innovation in T&T and is designed to make the law accessible to all in Trinidad and Tobago.
 
 ## ✨ Key Features
+
 ## 🖥️ User Experience
 -Natural language processing for conversational queries
 -Mobile-responsive interface
@@ -31,6 +32,13 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 -Simplify complex legal jargon for everyday citizens
 -Reduce barriers to legal knowledge
 -Serve as a model for AI innovation in Caribbean legal tech
+
+## Component Breakdown
+Frontend: Streamlit/React interface
+Backend: Python Flask/Django
+AI Layer: OpenAI/Hugging Face models
+Knowledge Base: PostgreSQL with legal documents
+Deployment: Docker containers on AWS
 
 ## Target audience
 -The general public seeking legal information
