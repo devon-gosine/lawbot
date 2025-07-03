@@ -35,8 +35,11 @@ Trinidad and Tobago’s Ministry of Legal Affairs for public law data.
 OpenAI for NLP models.
 
 ## 📞 Contact
+
 arunlalosingh12@gmail.com
+
 Void and Null labs
+
 lawbot@noreply.github.com
 
 ## ❓ FAQ 
