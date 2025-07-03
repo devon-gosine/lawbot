@@ -34,11 +34,11 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 -Serve as a model for AI innovation in Caribbean legal tech
 
 ## Component Breakdown
-Frontend: Streamlit/React interface
-Backend: Python Flask/Django
-AI Layer: OpenAI/Hugging Face models
-Knowledge Base: PostgreSQL with legal documents
-Deployment: Docker containers on AWS
+-Frontend: Streamlit/React interface
+-Backend: Python Flask/Django
+-AI Layer: OpenAI/Hugging Face models
+-Knowledge Base: PostgreSQL with legal documents
+-Deployment: Docker containers on AWS
 
 ## Target audience
 -The general public seeking legal information
