@@ -9,6 +9,7 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 
 ## 🖥️ User Experience
 -Natural language processing for conversational queries
+
 -Mobile-responsive interface
 -Accessibility-compliant design
 
