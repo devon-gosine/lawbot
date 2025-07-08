@@ -70,7 +70,10 @@ Lawbot is a project developed by Null and Void Labs that is made for the citizen
 ## 📖 Instructions for using Lawbot
 
 ## Tech Stack
-- Python
+- `ui/` - Streamlit app
+- `api/` - FastAPI app
+- `data/` - Data and indexes
+- `scripts/` - Utility scripts
 
 ## 🔮 Roadmap
 Phase 1: Basic Q&A (Current)
